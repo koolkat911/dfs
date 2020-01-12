@@ -1,0 +1,12 @@
+{
+    "name": "dfs",
+    "dependencies": {
+      "dropbox": "^2.3.0",
+      "dropbox-stream": "2.0.0"
+    },
+    "description": "Node FS wrapper for Dropbox API",
+    "license": "MIT",
+    "main": "dist/index.js",
+    "version": "0.0.1"
+}
+  
